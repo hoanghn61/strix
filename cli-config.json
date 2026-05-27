@@ -1,0 +1,8 @@
+{
+  "env": {
+    "STRIX_LLM": "openai/glm-4.7-cc",
+    "LLM_API_KEY": "1",
+    "LLM_API_BASE": "http://glm47-358b-fp8.llm-h200.viettelai.vn:30080/v1",
+    "STRIX_REASONING_EFFORT": "high"
+   }
+}
